@@ -28,10 +28,10 @@ Este é um aplicativo de **carrinho de compras** desenvolvido com o **Flutter**,
 ## 🚀 Como Executar o Projeto
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/flutter-carrinho-compras.git
+git clone (https://github.com/GustavoMascarenhasSfier/Carrinho-de-Compras-Flutter)
 
 # Acesse o diretório
-cd flutter-carrinho-compras
+cd Carrinho-de-Compras-Flutter
 
 # Instale as dependências
 flutter pub get
